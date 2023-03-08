@@ -1,0 +1,109 @@
+.navbarmia div{
+    background-color: #7B95AC;
+    margin: 0%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    font-size: x-large;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 10px double #7B95AC;
+}
+.navbarmia div a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.index2 h5{
+    color: black;
+}
+.index2{
+    background-color: #7B95AC;
+}
+.carouselmio{
+margin-top: auto;
+}
+.titulos h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Bebas Neue'    
+}
+.titulos h3{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Bebas Neue'
+
+}
+.titulos h4{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Bebas Neue'
+}
+.cartas div{
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
+.cartas div a{
+    background-color: #7B95AC;
+    border-color: #7B95AC;
+}
+.cate{
+    font-size: larger;
+    display: flex;
+    justify-content: baseline;
+    background-color: #7B95AC;
+    margin: 0%;
+}
+.endvar1 a{
+    display: flex;
+    justify-content: baseline;
+    background-color: #7B95AC;
+    text-decoration: none;
+    color: black;
+    font-style: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.index3 p{
+    margin-left: 1%;
+    margin-top: 5%;
+    font-family: 'Bebas Neue'
+}
+.correo{
+    margin-top: 5%;
+}
+.cardpagos h4{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.cardpagos div{
+    display: flex;
+    justify-content: baseline;
+}
+.index3{
+    background-color: #7B95AC;
+}
+.iconosmio{
+    display: flex;
+    justify-content: center;
+}
+.iconosmio div span{
+    font-size: 70px;
+}
+.carouselfoto{
+    font-size: xx-large;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+}
+.drop div{
+    display: flex;
+    justify-content: end;
+    margin-top: 2%;
+    margin-right: 2%;
+}
