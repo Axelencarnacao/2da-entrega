@@ -100,6 +100,10 @@ margin-top: auto;
     font-size: xx-large;
     font-family: 'Josefin Sans', sans-serif;
     color: black;
+    border-color: #7B95AC;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
 }
 .drop div{
     display: flex;
@@ -107,3 +111,27 @@ margin-top: auto;
     margin-top: 2%;
     margin-right: 2%;
 }
+.nosotros1 div{
+    background-color: #7B95AC;
+}
+.nosotros h2{
+    color: white;
+    background-color: #7B95AC;
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    padding-top: 3%;
+    padding: 3%;
+}
+.nosotros h4{
+    color: white;
+    background-color: #7B95AC;
+    display: flex;
+    justify-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding: 3%;
+    
+}
+
+
