@@ -13,23 +13,26 @@
     text-decoration: none;
     font-family: 'Josefin Sans', sans-serif;
 }
-.index2 h5{
+.navbarmia div a:hover{
+    transform: scale(1.1);
+}
+h5{
     color: black;
 }
-.index2{
+main{
     background-color: #7B95AC;
 }
 .carouselmio{
 margin-top: auto;
 }
-.titulos h2{
+h2{
     display: flex;
     justify-content: center;
     margin-top: 5%;
     color: white;
     font-family: 'Bebas Neue'    
 }
-.titulos h3{
+h3{
     display: flex;
     justify-content: center;
     margin-top: 5%;
@@ -37,7 +40,7 @@ margin-top: auto;
     font-family: 'Bebas Neue'
 
 }
-.titulos h4{
+h4{
     display: flex;
     justify-content: center;
     margin-top: 5%;
@@ -52,6 +55,15 @@ margin-top: auto;
 .cartas div a{
     background-color: #7B95AC;
     border-color: #7B95AC;
+
+}
+.cartas div a:hover{
+    transform: scale(2);
+}
+.cartas p{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
 }
 .cate{
     font-size: larger;
@@ -69,7 +81,7 @@ margin-top: auto;
     font-style: none;
     font-family: 'Josefin Sans', sans-serif;
 }
-.index3 p{
+p{
     margin-left: 1%;
     margin-top: 5%;
     font-family: 'Bebas Neue'
@@ -85,9 +97,6 @@ margin-top: auto;
 .cardpagos div{
     display: flex;
     justify-content: baseline;
-}
-.index3{
-    background-color: #7B95AC;
 }
 .iconosmio{
     display: flex;
@@ -132,6 +141,13 @@ margin-top: auto;
     padding-right: 5%;
     padding: 3%;
     
+}
+.titulos{
+    background-color: #7B95AC;
+}
+.butongrup{
+    display: flex;
+    justify-content: center;
 }
 
 
